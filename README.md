@@ -26,17 +26,9 @@ LAZ → LAS → LAS Dataset → Ground Classification → Ground Filter → DEM
 - ArcPy
 - 3D Analyst Extension
 
-## Technologies
-
-- Python
-- ArcPy
-- ArcGIS Pro
-- LiDAR
-
 ## Sample Output
 
-### Bare-Earth DEM Hillshade
-
+### Bare-Earth DEM Hillshade of Florida Everglades generated from raw LIDAR from USGS
 ![DEM Output](docs/screenshots/hillshade.png)
 
 ## Author
