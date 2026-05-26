@@ -4,7 +4,7 @@ ArcPy automation workflow for converting raw LAZ LiDAR files into ground-classif
 
 ## Overview
 
-This project automates a LiDAR preprocessing workflow for terrain analysis. The script converts compressed LAZ files to LAS, creates a LAS dataset, classifies ground points, filters to ground-only returns, and generates a DEM with user-defined resolution.
+This script automates a LiDAR preprocessing workflow for terrain analysis. It converts compressed LAZ files to LAS, creates a LAS dataset, classifies ground points, filters to ground-only returns, and generates a DEM with user-defined resolution.
 
 ## Workflow
 
