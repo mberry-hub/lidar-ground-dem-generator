@@ -55,7 +55,7 @@ Then run the script
 (Add screenshots here)
 
 ```markdown
-![DEM Output](docs/screenshots/dem_output.png)
+![DEM Output]([docs/screenshots/dem_output.png](https://github.com/mberry-hub/lidar-ground-dem-generator/blob/main/docs/screenshots/hillshade.png))
 ```
 
 ## Future Improvements
