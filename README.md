@@ -48,7 +48,7 @@ dem_resolution = 1
 ground_method = "STANDARD"
 ```
 
-Then run the script in the ArcGIS Pro Python environment.
+Then run the script 
 
 ## Sample Output
 
