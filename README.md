@@ -52,13 +52,9 @@ Then run the script
 
 ## Sample Output
 
-(Add screenshots here)
+### Bare-Earth DEM Hillshade
 
-```markdown
-![DEM Output]([docs/screenshots/dem_output.png](https://github.com/mberry-hub/lidar-ground-dem-generator/blob/main/docs/screenshots/hillshade.png))
-```
-
-## Future Improvements
+![DEM Output](docs/screenshots/hillshade.png)
 
 - ArcGIS script tool version
 - GUI parameters
