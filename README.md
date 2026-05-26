@@ -20,7 +20,7 @@ LAZ → LAS → LAS Dataset → Ground Classification → Ground Filter → DEM
 - configurable DEM resolution
 - bare-earth DEM generation
 
-## Requirements
+## Required license 
 
 - ArcGIS Pro
 - ArcPy
@@ -33,33 +33,11 @@ LAZ → LAS → LAS Dataset → Ground Classification → Ground Filter → DEM
 - ArcGIS Pro
 - LiDAR
 
-## Usage
-
-Edit the input paths and settings in:
-
-```python
-src/lidar_dem_prep_tool.py
-```
-
-Example:
-
-```python
-dem_resolution = 1
-ground_method = "STANDARD"
-```
-
-Then run the script 
-
 ## Sample Output
 
 ### Bare-Earth DEM Hillshade
 
 ![DEM Output](docs/screenshots/hillshade.png)
-
-- ArcGIS script tool version
-- GUI parameters
-- DSM generation
-- batch processing
 
 ## Author
 
