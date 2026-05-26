@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyCharm
+.idea/
+
+# Virtual environments
+venv/
+.venv/
+
+# GIS / LiDAR data
+*.las
+*.laz
+*.lasd
+*.tif
+*.tiff
+*.aux
+*.ovr
+*.xml
+*.lock
+
+# Geodatabases
+*.gdb/
+
+# Scratch/output folders
+outputs/
+temp/
+scratch/
+
+# ArcGIS project junk
+*.aprx
+*.aprx.lock
